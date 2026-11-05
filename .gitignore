@@ -1,0 +1,19 @@
+# Personal learner data — examples belong only in examples/
+course-pilot-data/
+**/course-state.md
+**/_总览.md
+**/_规则覆盖.md
+.dsh-meow/
+.env
+.env.*
+*.key
+*.pem
+# Local backups and generated artifacts
+*backup*/
+_archive*/
+*.zip
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Ignore rules do not remove already tracked files or redact commit history.
